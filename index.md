@@ -1,3 +1,3 @@
 # Hello!
 
-<p style="color:lightblue;">Welcome to my website!</p>
+<p style="color:#0099FF;">Welcome to my website!</p>
