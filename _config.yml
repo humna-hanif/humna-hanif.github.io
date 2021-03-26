@@ -1,5 +1,6 @@
 name: "Humna Hanif's Website"
-title: null
+title: "Humna's Website"
+description: "This is a website for my CSC-109 course, a website about me!"
 plugins:
   - jemoji
 theme: jekyll-theme-minimal
