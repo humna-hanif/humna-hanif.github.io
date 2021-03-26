@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+name: "Humna Hanif Website",
+title: null,
+plugins:
+  - jemoji
