@@ -1,5 +1,5 @@
-name: "Humna Hanif's Website",
-title: null,
+name: "Humna Hanif's Website"
+title: null
 plugins:
   - jemoji
 theme: jekyll-theme-minimal
