@@ -4,4 +4,4 @@
 
 <p style="color:#0099FF;">I am a freshman in college. I attend Quinnipiac University and major in Software Engineering. </p>
 
-<p style="color:#0099FF;">Go back to home page: https://humna-hanif.github.io</p>
+<p style="color:#0099FF;">Go back to home page: <a href="https://humna-hanif.github.io"> Homepage</p>
