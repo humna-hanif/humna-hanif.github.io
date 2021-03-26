@@ -1,5 +1,3 @@
-// Homepage of Website
-
 # Hello!
 
-Welcome to my website!
+<p style="color:lightblue;">Welcome to my website!</p>
