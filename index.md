@@ -1,7 +1,7 @@
 # Hello!
 
 
-<p style="color:#0099FF;">Welcome to my website!</p>
+<p style="color:#0099FF;">Welcome to my website! My name is Humna Hanif.</p>
 
 <p style="color:#0099FF;">This website is created for my CSC-109, Git Educated on Version Ctrl course. A website all about me, Humna Hanif! &#128522</p>
 

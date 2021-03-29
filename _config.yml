@@ -1,6 +1,6 @@
 name: "Humna Hanif's Website"
 title: "Humna's Website"
-<img src="images/humna.png" width = "300" alt="Humna Hanif">
+logo: "images/humna.png"
 description: "This is a website for my CSC-109 course, a website about me!"
 plugins:
   - jemoji
