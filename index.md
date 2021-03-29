@@ -1,5 +1,5 @@
 # Hello!
-<img src="file:///Users/humnahanif/Desktop/Resume/gifgit%20(1).png" alt="Humna Hanif">
+
 
 <p style="color:#0099FF;">Welcome to my website!</p>
 
